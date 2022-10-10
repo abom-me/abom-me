@@ -18,7 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abom-me&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src="https://www.memedroid.com/memes/tag/coding" width="512px"/>
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abom-me&icon=6&color=1)](https://visitcount.itsvg.in)
