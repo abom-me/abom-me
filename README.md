@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/abom_me" target="blank"><img src="https://img.shields.io/twitter/follow/abom_me?logo=twitter&style=for-the-badge" alt="abom_me" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Multi Apps<br>🌱 I’m currently learning Flutter , Firebase , Laravel<br>💬 Ask me about Flutter, PHP , Firebase Mysql<br>⚡ Fun fact I don't like coding in midnight.<br>
+🔭 I’m currently working on Multi Apps<br>🌱 I’m currently learning Flutter , Firebase<br>💬 Ask me about Flutter, PHP , Firebase Mysql<br>⚡ Fun fact I don't like coding in midnight.<br>
 
 
 ## 🌐 Socials:
