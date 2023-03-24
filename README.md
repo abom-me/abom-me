@@ -4,10 +4,11 @@
 ### <div align="center">a full-stack developer  👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 👨‍💻I’m currently learning develop games by [Flutter](https://flutter.dev)  
-  
+- 👨‍💻I’m currently learning animations by [Flutter](https://flutter.dev)  
 
-- ❓ Ask me about anything in Flutter , PHP, Mysql and Firebase  
+- 💼 Working with [InvoSpark](https://invospark.com/) 
+
+- ❓ Ask me about anything in Flutter , PHP, Mysql and Firebase
   
 
 - ⚡ Fun fact: I don't like coding in midnight   
