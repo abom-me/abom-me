@@ -4,14 +4,16 @@
 ### <div align="center">a full-stack developer  👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 👨‍💻I’m currently learning animations by [Flutter](https://flutter.dev)  
+- 👨‍💻I’m currently learning DartFroge by [DartFrog](frog.vgv.dev)
+
+- 👨‍💻Currently working to build  [Atelerix](https://twitter.com/AtelerixDev)  
 
 - 💼 Working with [InvoSpark](https://invospark.com/) 
 
-- ❓ Ask me about anything in Flutter , PHP, Mysql and Firebase
+- ❓ Ask me about anything in Flutter, Dart, Supabase, PHP, Mysql and Firebase
   
 
-- ⚡ Fun fact: I don't like coding in midnight   
+- ⚡ Fun fact: I don't like coding at midnight   
   
 
 <br/>  
