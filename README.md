@@ -8,7 +8,6 @@
 
 - 👨‍💻Currently working to build  [Atelerix](https://twitter.com/AtelerixDev)  
 
-- 💼 Working with [InvoSpark](https://invospark.com/) 
 
 - ❓ Ask me about anything in Flutter, Dart, Supabase, PHP, Mysql and Firebase
   
