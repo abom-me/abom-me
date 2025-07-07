@@ -2,9 +2,6 @@
   
 
 ### <div align="center">a full-stack developer  👨‍💻 working remotely since 2019 🚀</div>  
-  
-
-- 👨‍💻I’m currently learning DartFroge by [DartFrog](frog.vgv.dev)
 
 - 👨‍💻Currently working to build  [Atelerix](https://twitter.com/AtelerixDev)  
 
