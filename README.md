@@ -112,8 +112,7 @@ const expertise = {
 
 | Role | Organization | Impact |
 |------|-------------|--------|
-| 🎤 **Organizer** | Flutter MENA Conference | Empowering MENA developers |
-| 👥 **Lead** | GDG Nizwa | Growing local tech community |
+| 👥 **Organizer** | Google Developers Group -  Nizwa | Growing local tech community |
 | 🏢 **Founder** | AlqTech Community | Building developer network |
 
 </div>
