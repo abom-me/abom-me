@@ -1,70 +1,173 @@
+# 🌟 Nasr Al-Rahbi
+
 <div align="center">
 
-# 👋 Hey, I'm Nasr Al-Rahbi
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+%40+AlqTech+Solutions;Flutter+%7C+Full-Stack+%7C+Mobile+Expert;Building+Real+Products+for+Real+Businesses;6+Years+Shipping+Production+Code)](https://git.io/typing-svg)
 
-### 🧠 Tech Founder | 🧑‍💻 Full-Stack Engineer | 🇴🇲 From Oman to the World
-#### Building developer tools, leading communities, and crafting delightful experiences.
+**🇴🇲 Muscat, Oman** • **📧 nasr@alqtech.com**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nasr-alrahbi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abom_me)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abom.me)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19994059/nasr-al-rahbi)
 
 </div>
 
 ---
 
-- 🔭 Currently leading **[Atelerix](https://twitter.com/AtelerixDev)** — a next-gen error tracking & user insight platform built for modern developers.
-- 🧠 Passionate about clean architecture, scalable systems, and Arabic-first developer tools.
-- 🌍 Organizer of **Flutter MENA** & **GDG Nizwa**, empowering devs across the MENA region.
-- 🎓 I teach, mentor, and build communities for future tech leaders.
-- 💬 Ask me about: `Flutter`, `Supabase`, `Next.js`, `NestJS`, `PostgreSQL`, `Microservices`, and more.
-- ⚠️ Fun fact: I don't like coding after midnight, I like shipping before it.
+## 👨‍💻 Who Am I?
+
+I don't just write code — **I ship products that real companies use**. With 6 years of Flutter development and full-stack experience, I've built everything from government platforms to investment SaaS products. I'm the founder of **AlqTech Solutions**, where we turn complex business problems into elegant technical solutions for clients across Oman and the Gulf.
+
+**Community builder** leading GDG Nizwa and AlqTech Community. **Open-source contributor** with 5+ published packages including `thawani_payment` (70+ developers using it). **Real-world experience** with projects for Ministry of Higher Education, Oman LNG, and PDO.
+
+> *"I prefer shipping products over perfect code. Real users beat theoretical perfection."*
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Current Focus
 
-### 🚀 Full-Stack Toolkit
+### 💼 Active Projects
 
-| Frontend | Backend | DevOps / Infra |
-|---|---|---|
-| Flutter, Next.js (15+), TailwindCSS, Figma | NestJS, Supabase, PostgreSQL, Dart, TypeScript | Vercel, Supabase Edge, Firebase, Docker, GitHub Actions |
+**🎯 Atelerix** — SaaS investment platform  
+Building sophisticated investor dashboard with NestJS backend, PostgreSQL, and Flutter web. Complex state management with Riverpod, HttpOnly cookie authentication, real-time data flows.
+
+
+**🌐 Shababna** — Professional network for Omani creators  
+Full social platform with profiles, marketplace, workshops, messaging, and project management.
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 💪 Expert Level
+
+```javascript
+const expertise = {
+  mobile: ['Flutter', 'Dart', 'iOS', 'Android'],
+  backend: ['NestJS', 'Node.js', 'PostgreSQL', 'Supabase'],
+  frontend: ['Next.js 15+', 'React', 'TypeScript'],
+  state: ['Riverpod', 'GoRouter', 'Provider'],
+  infra: ['Docker', 'Coolify', 'Vercel', 'Firebase'],
+  embedded: ['ESP32', 'Arduino', 'IoT']
+}
+```
+
+### 📦 Published Packages
+
+<div align="center">
+
+| Package | Downloads | Description |
+|---------|-----------|-------------|
+| [thawani_payment](https://pub.dev/packages/thawani_payment) | ![Pub Version](https://img.shields.io/pub/v/thawani_payment?color=blue) | Thawani payment gateway integration |
+| *4+ more packages* | — | Published under **abom.me** |
+
+</div>
+
+---
+
+## 🏆 Notable Projects & Clients
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Enterprise & Government
+- **Siraj** — Ministry of Higher Education
+- **HAS** — Oman LNG  
+- **Rakhah** — PDO
+- **Cyfr.vc** — Investment platform
+
+</td>
+<td width="50%">
+
+### 🎨 Apps & Platforms
+- **Flutter MENA Conference App**
+- **Dahih** — Productivity app
+- **Deep linking & security implementations**
+- **UAT testing & QA systems**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abom-me&show_icons=true&count_private=true&hide_border=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abom-me&hide_border=true&date_format=j%2Fn%5B%2FY%5D&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abom-me&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff6b35&icon_color=ff6b35&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abom-me&theme=tokyonight&hide_border=true&background=1a1b27&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35" height="170" />
 </div>
-
----
-
-## 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/abom-me" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/abom_me" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nasr-al-rahbi-08a573245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/abom.me" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/19994059/nasr-al-rahbi" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-  <a href="https://medium.com/@abom.me" target="_blank"><img src="https://img.shields.io/badge/Medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abom-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff6b35&text_color=c9d1d9" />
 </div>
 
 ---
 
-## ☕ Support My Work
+## 🌍 Community Leadership
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/abomMe" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" />
-  </a>
+
+| Role | Organization | Impact |
+|------|-------------|--------|
+| 🎤 **Organizer** | Flutter MENA Conference | Empowering MENA developers |
+| 👥 **Lead** | GDG Nizwa | Growing local tech community |
+| 🏢 **Founder** | AlqTech Community | Building developer network |
+
 </div>
 
 ---
 
-### 👇 Some Highlights
+## 💡 Philosophy
 
-- 🦔 [Atelerix](https://github.com/abom-me/atelerix) – Developer experience platform (Open-source SDK coming soon)
-- 💳 [`thawani_payment`](https://pub.dev/packages/thawani_payment) – Thawani API integration for Flutter (used by 70+ projects)
+```dart
+class NasrAlRahbi {
+  final principles = [
+    'Ship fast, iterate faster',
+    'Real users > Perfect code',
+    'Arabic-first developer tools',
+    'Build communities, not just code',
+    'Honesty over sugarcoating'
+  ];
+  
+  final currentMission = 
+    'Building AlqTech Solutions into the Gulf\'s premier tech consultancy';
+    
+  bool isDone() => false; // Always learning, always building
+}
+```
 
 ---
 
-> _"Building tech is easy. Building trust is art."_  
+## 📫 Let's Build Something
+
+<div align="center">
+
+### Got a project? Need consultation? Want to collaborate?
+
+**📧 Email:** nasr@alqtech.com  
+**🔗 LinkedIn:** [linkedin.com/in/nasr-alrahbi](https://linkedin.com/in/nasr-alrahbi)
+
+### ☕ Support My Open Source Work
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/abomMe)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Quick Links
+
+[🌐 AlqTech Page](https://alqtech.com) • [ X Account](https://x.com/abom_me) • [📚 Instagram](https://instagram.com/abom.me) • [💼 LinkedIn](https://linkedin.com/in/nasr-alrahbi)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=abom-me&color=ff6b35&style=flat-square)
+
+**⭐ From Oman to the World — Building the Future of Tech in the Gulf**
+
+</div>
