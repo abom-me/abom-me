@@ -29,8 +29,8 @@ I don't just write code — **I ship products that real companies use**. With 6 
 
 ### 💼 Active Projects
 
-**🎯 Atelerix** — SaaS investment platform  
-Building sophisticated investor dashboard with NestJS backend, PostgreSQL, and Flutter web. Complex state management with Riverpod, HttpOnly cookie authentication, real-time data flows.
+**🎯 Atelerix ** — Unified Developer Monitoring Platform
+All-in-one solution for error tracking, analytics, push notifications, and user feedback. Replacing multiple developer tools with one Arabic-first SDK for the MENA market.
 
 
 **🌐 Shababna** — Professional network for Omani creators  
